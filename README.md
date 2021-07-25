@@ -1,2 +1,0 @@
-# SyteWeb
-Syte a scolii
